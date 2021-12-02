@@ -6,12 +6,11 @@ I have around 5 years of experince I am currently working at 10 pearls as senior
 During my career I got a chance working with python as BackEnd language using both frameworks
  Django and Flask AWS services, SQL NoSQL dbs
 The projects  I have been involved in development are 
-ecommerce related 
-cybersecurity 
-Order management system 
-Loyalty mangement system
-reporting engine 
-Pipelines for DataLake 
-other than that I am good team player.
- also very focused and passionate developer.
+ecommerce, 
+cybersecurity, 
+Order management system, 
+Loyalty mangement system,
+reporting engines &
+Pipelines for DataLake, 
+other than that I am good team player and passionate developer.
 My hobbied are learning new languages , sketching and listening to music 
