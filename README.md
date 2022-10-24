@@ -4,7 +4,7 @@
 - 📫 send me email on seharaafzalcs@outlook.com
 I have around 5 years of experince I am currently working at 10 pearls as senior software engineer 
 During my career I got a chance working with python as BackEnd language using both frameworks
- Django and Flask AWS services, SQL NoSQL dbs
+ Django and Flask AWS services, SQL NoSQL databases
 The projects  I have been involved in development are 
 ecommerce, 
 cybersecurity, 
@@ -13,4 +13,4 @@ Loyalty mangement system,
 reporting engines &
 Pipelines for DataLake, 
 other than that I am good team player and passionate developer.
-My hobbied are learning new languages , sketching and listening to music 
+My hobbies are learning new languages and listening to music 
